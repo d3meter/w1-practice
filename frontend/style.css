@@ -1,0 +1,39 @@
+/* h1 {
+    color:brown;
+}
+
+#blue {
+    color: darkblue;
+}
+
+h1.purple {
+    color: purple;
+}
+
+p {
+    color: rgb(0, 158, 13);
+}
+
+p.purple {
+    color: pink;
+} */
+
+body {
+    color: darkorange;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+div {
+    color:crimson;
+}
+
+.container-1 {
+    background-color: black;
+    height: 100px;
+    font-weight: 300;
+}
+
+p {
+    height: 80px;
+}
